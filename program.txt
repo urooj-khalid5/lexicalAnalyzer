@@ -1,0 +1,28 @@
+`` This is the c test file
+
+void a_b_((char
+class a, bd_5;
+if_else(a&&b<<c<<!= d)
+));
+`@
+    Multi line Comment
+@`
+
+`` Single line Comment
+for(int i = 0, i <= 4; i++){
+    x += i;
+}
+    x++;
+
+
+_sda = "gdsdg";
+if (x<5) { 
+    `` Code to be executed if the condition is true 
+} else { 
+    `` Code to be executed if the condition is false 
+} 
+class ClassName { private: 
+    `` Private data members  
+ public: 
+    `` Public data members  
+};
